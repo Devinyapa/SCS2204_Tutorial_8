@@ -1,0 +1,9 @@
+INFO  time: initialize in 0.29s
+WARN  no build tool detected in workspace 'C:\Scala\Tutorial8'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\Tutorial8\q1.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\Tutorial8\q1.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\Tutorial8\q1.scala
+WARN  no build target: 
+INFO  shutting down Metals
